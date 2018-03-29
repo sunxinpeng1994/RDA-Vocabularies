@@ -13,6 +13,7 @@ You may also download a complete [ZIP](https://github.com/RDVocab/RDA-Vocabulari
 
 Have fun!
 
+Xinpeng Sun
 Jon Phipps   
 Diane Hillmann   
 Gordon Dunsire
